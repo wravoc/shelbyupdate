@@ -21,7 +21,7 @@ Open styles.css and delete the rule called /* Back text */
 
 ## FontAwesome.com
 
-Download and replace files
+Download newest FA6 files and replace old files, update links in `index.html`
 Find & replace `'fa '` with `'fa-solid'` everywhere except social media buttons
 Social Media buttons like dribbble and behance find & replace with `'fa-brands'`
 Replace `'fa-envelope-o'` with `'fa-envelope-open'`
