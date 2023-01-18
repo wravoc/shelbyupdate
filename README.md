@@ -1,6 +1,5 @@
-Creative Market is a great resource and the [Shelby template](https://creativemarket.com/Bruk/70522-Shelby-One-Page-HTML5-Template) is good enough to update for 2023. 
+# Creative Market  [Shelby template](https://creativemarket.com/Bruk/70522-Shelby-One-Page-HTML5-Template) update for 2023. 
 
-# The following needs to be updated.
 
 ## jQuery
 
