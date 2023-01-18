@@ -22,9 +22,9 @@ Open styles.css and delete the rule called /* Back text */
 ## FontAwesome.com
 
 Download and replace files
-Find & replace 'fa ' with 'fa-solid' everywhere except social media buttons
-Social Media buttons like dribbble and behance find & replace with 'fa-brands'
-Replace 'fa-envelope-o' with 'fa-envelope-open'
+Find & replace `'fa '` with `'fa-solid'` everywhere except social media buttons
+Social Media buttons like dribbble and behance find & replace with `'fa-brands'`
+Replace `'fa-envelope-o'` with `'fa-envelope-open'`
 
 ## Favico
 
