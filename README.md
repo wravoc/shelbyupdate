@@ -15,7 +15,9 @@
 ## Featherlight jQuery Lightbox Library
 
 (Now with image gallery!)
+
 [Download the new files](https://noelboss.github.io/featherlight/)
+
 Copy new .js and .css files into appropriate folders, delete older versions, update links.
 Open styles.css and delete the rule called /* Back text */
 
